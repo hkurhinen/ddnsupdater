@@ -1,0 +1,8 @@
+{
+  "name": "dynamic-dns-updater",
+  "description": "App to update dynamic dns records",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": ""
+  }
+}

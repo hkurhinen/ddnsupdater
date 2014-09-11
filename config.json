@@ -1,0 +1,13 @@
+{
+	"hosts" : [ 
+	           "elemmings.dy.fi"
+	],
+	"ip_check_interval" : 3600000,
+	"ip_check_random" : 1800000,
+	"max_update_interval" : 432000000,
+	"update_random" : 86400000,
+	"ip_check_url" : "http://checkip.dy.fi/",
+	"update_url" : "https://www.dy.fi/nic/update",
+	"username" : "ACCOUNT EMAIL",
+	"password" : "ACCOUNT PASSWORD"
+}
